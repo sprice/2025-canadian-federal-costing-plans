@@ -17,16 +17,16 @@ Note: `o1-pro` does not accept PDF attachments. The two JPEGs were used for this
 
 ### o1 Pro
 
-[o1-pro-results.md](o1-pro-results.md)
+[o1 Pro Result](o1-pro-result.md)
 
 ### o3
 
-[o3-results.md](o3-results.md)
+[o3 Result](o3-result.md)
 
 ### Sonnet 3.7 Thinking
 
-[sonnet-3.7-thinking-results.md](sonnet-3.7-thinking-results.md)
+[Sonnet 3.7-thinking Result](sonnet-3.7-thinking-result.md)
 
 ### Gemini 2.5 Pro Deep Research
 
-[gemini-2.5-pro-deep-research-results.md](gemini-2.5-pro-deep-research-results.md)
+[Gemini 2.5 Pro Deep Research Result 🥺](gemini-2.5-pro-deep-research-result.md)
