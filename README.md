@@ -29,4 +29,4 @@ Note: `o1-pro` does not accept PDF attachments. The two JPEGs were used for this
 
 ### Gemini 2.5 Pro Deep Research
 
-[Gemini 2.5 Pro Deep Research Result 🥺](gemini-2.5-pro-deep-research-result.md)
+[Gemini 2.5 Pro Deep Research Result 🥺](gemini-2.5-pro-deep-research.md)
